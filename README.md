@@ -1,6 +1,6 @@
 # ESP8266 Cat Feeder
 
-![Alt text for the GIF](https://github.com/pjakonis/ESP8266-Cat-Feeder/blob/main/feed.gif)
+![Alt text for the GIF](https://s1.ezgif.com/tmp/ezgif-1-9bf51a32b6.gif)
 
 This project is an automated cat feeder powered by the ESP8266 microcontroller. It utilizes a web server hosted on the ESP8266 to set specific feeding times or to manually trigger the feeding mechanism.
 
